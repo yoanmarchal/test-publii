@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "test-static-website",
+    "description": "",
+    "home_page_url": "https://yoanmarchal.github.io/test-publii",
+    "feed_url": "https://yoanmarchal.github.io/test-publii/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "yo"
+    },
+    "items": [
+        {
+            "id": "https://yoanmarchal.github.io/test-publii/hellow.html",
+            "url": "https://yoanmarchal.github.io/test-publii/hellow.html",
+            "title": "Hellow",
+            "content_html": "Hellow",
+            "image": "https://yoanmarchal.github.io/test-publii/media/posts/1/",
+            "author": {
+                "name": "yo"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-07-06T12:47:13+02:00",
+            "date_modified": "2018-07-06T12:47:13+02:00"
+        }
+    ]
+}

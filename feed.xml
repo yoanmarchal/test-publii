@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>test-static-website</title>
+    <link href="https://yoanmarchal.github.io/test-publii/feed.xml" rel="self" />
+    <link href="https://yoanmarchal.github.io/test-publii" />
+    <updated>2018-07-08T19:33:41+02:00</updated>
+    <author>
+        <name>yo</name>
+    </author>
+    <id>https://yoanmarchal.github.io/test-publii</id>
+
+    <entry>
+        <title>Hellow</title>
+        <author>
+            <name>yo</name>
+        </author>
+        <link href="https://yoanmarchal.github.io/test-publii/hellow.html"/>
+        <id>https://yoanmarchal.github.io/test-publii/hellow.html</id>
+
+        <updated>2018-07-06T12:47:13+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://yoanmarchal.github.io/test-publii/media/posts/1/" alt="" />
+                Hellow
+            ]]>
+        </content>
+    </entry>
+</feed>
